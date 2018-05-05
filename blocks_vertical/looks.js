@@ -290,7 +290,8 @@ Blockly.Blocks['looks_costume'] = {
             "name": "COSTUME",
             "options": [
               ['costume1', 'COSTUME1'],
-              ['costume2', 'COSTUME2']
+              ['costume2', 'COSTUME2'],
+              ['random', 'RANDOM']
             ]
           }
         ],
